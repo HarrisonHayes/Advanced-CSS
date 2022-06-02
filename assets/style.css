@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 40px;
+    background-color: black;
+    color: white;
+
+}
+header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+header nav ul {
+    list-style-type: none;
+    color: white;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 35px;
+    color: white;
+}
+
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    text-align: center;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.portfolio {
+    background-color: black;
+    color: white;
+}
+
+
+.description {
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.about-me h2, .portfolio h2, .contact h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+
+}
+.portfolio h2 {
+    color: white;
+}
+
+.portfolio h2 {
+    color: white;
+}
+
+
+.about-me p, .portfolio p, .contact p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
+
+.about-me p {
+    background-color: white;
+    color: black;
+}
+
+.section {
+    text-align: center;
+}
+
+.contact {
+    width: 600px;
+    margin: auto;
+    
+}
+
+
+.input-field {
+    width: 500px;
+    height: 50px;
+    margin-top: 25;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid black;
+    outline: none;
+    
+}
+
+.text-area {
+    height: 150px;
+    padding-top: 15px;
+}
+
+.btn{
+    border-radius: 30px;
+    color: black;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: greenyellow;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    padding: 15px;
+    text-align: center;
+    font-weight: bolder;
+
+}
