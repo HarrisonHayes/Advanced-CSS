@@ -20,6 +20,8 @@ A user can click each image and be brought to the corresponding deployed project
 
 A user can input text to the contact form.
 
+A user can view and interact with this website on mobile device with adaptive resizing.
+
 ## Visuals:
 
 ![Portfolio](assets/portfolioIMG.JPG)
